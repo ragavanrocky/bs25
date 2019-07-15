@@ -5,4 +5,4 @@ for b in range(g+1,h):
         print(b,end=" ")
     else:
         pass
-agfsgsdh
+
